@@ -1,10 +1,11 @@
 package main
 
 import (
-	"djoy/tftpd/server"
-	"djoy/tftpd/storage"
 	"log"
 	"net"
+
+	"github.com/djoyahoy/tftpd/server"
+	"github.com/djoyahoy/tftpd/storage"
 )
 
 func main() {

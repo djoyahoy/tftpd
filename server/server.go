@@ -1,10 +1,11 @@
 package server
 
 import (
-	"djoy/tftpd/storage"
 	"log"
 	"net"
 	"time"
+
+	"github.com/djoyahoy/tftpd/storage"
 )
 
 const blockSize int = 512
