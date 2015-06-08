@@ -1,5 +1,4 @@
-TFTPD
-=====
+#TFTPD
 
 A simple in-memory tftp server. It only operates in octect mode and defaults to
 port 60001.
